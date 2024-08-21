@@ -6,6 +6,7 @@
 --->Using pip module install langchain,ollama module which is crucial for chaining the prompt used in this script
 --->start the scripting process(use the main.py)
 --->Use the Ai chatbot 
+--->If you have trouble setting up the virtual environment,pls refer to stack overflow or youtube 
 
 Uses
 --->For the website that i am working for i can integrate this LOcal Ai bot into the website 
